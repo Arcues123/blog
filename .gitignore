@@ -1,0 +1,4 @@
+.gitignore.swp
+.main.js.swp
+.package.json.swp
+node_modules/

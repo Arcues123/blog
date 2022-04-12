@@ -1,0 +1,33 @@
+{
+  "name": "blogcuakhoa",
+  "version": "1.0.0",
+  "description": "Đây là blog của tui",
+  "main": "main.js",
+  "scripts": {
+    "start":"nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arcues123/blog_c-a_-ng_khoa.git"
+  },
+  "keywords": [
+    "khoa",
+    "blog",
+    "khoa",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "arceus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arcues123/blog_c-a_-ng_khoa/issues"
+  },
+  "homepage": "https://github.com/Arcues123/blog_c-a_-ng_khoa#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
